@@ -1,0 +1,11 @@
+variance_rank,week_start,region,lane,planned_units,actual_units,planned_cost,actual_cost,total_variance,volume_variance,rate_variance,missing_cost_shipments,driver_note
+1,2026-05-04,"NA Central",ORD5->MSP9,1000,1010,2300.0,1175.0,-1125.0,23.0,-1148.0,1,"Data quality: missing cost record"
+2,2026-05-18,"NA West",ONT8->SEA6,1250,1350,3125.0,3730.0,605.0,250.0,355.0,0,"Rate pressure"
+3,2026-05-25,"NA West",ONT8->SEA6,1300,1350,3250.0,3505.0,255.0,125.0,130.0,0,"Rate pressure"
+4,2026-05-18,"NA East",DFW1->EWR8,1200,1260,2880.0,3080.0,200.0,144.0,56.0,0,"Volume above plan"
+5,2026-05-04,"NA West",ONT8->SEA6,1200,1230,3000.0,3195.0,195.0,75.0,120.0,0,"Rate pressure"
+6,2026-05-04,"NA East",DFW1->EWR8,1100,1120,2640.0,2720.0,80.0,48.0,32.0,0,"Volume above plan"
+7,2026-05-11,"NA East",DFW1->EWR8,1150,1170,2760.0,2840.0,80.0,48.0,32.0,0,"Volume above plan"
+8,2026-05-11,"NA West",ONT8->SEA6,1250,1230,3125.0,3205.0,80.0,-50.0,130.0,0,"Rate pressure"
+9,2026-05-04,"NA East",ATL2->BWI4,950,900,1995.0,1925.0,-70.0,-105.0,35.0,0,"Volume below plan"
+10,2026-05-18,"NA East",ATL2->BWI4,1000,1020,2100.0,2155.0,55.0,42.0,13.0,0,"Volume above plan"

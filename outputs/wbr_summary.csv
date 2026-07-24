@@ -1,0 +1,5 @@
+week_start,actual_units,planned_units,unit_variance,actual_cost,planned_cost,cost_variance,cost_variance_pct,actual_cost_per_unit,plan_cost_per_unit,shipment_count,on_time_rate_pct,missing_cost_shipments,prior_week_actual_cost,prior_week_cost_change
+2026-05-04,4260,4250,10,9015.0,9935.0,-920.0,-9.3,2.1162,2.3376,8,62.5,1,,
+2026-05-11,4320,4330,-10,10255.0,10134.0,121.0,1.2,2.3738,2.3404,8,87.5,0,9015.0,1240.0
+2026-05-18,4605,4450,155,11260.0,10405.0,855.0,8.2,2.4452,2.3382,8,62.5,0,10255.0,1005.0
+2026-05-25,4565,4520,45,10815.0,10564.0,251.0,2.4,2.3691,2.3372,8,87.5,0,11260.0,-445.0
